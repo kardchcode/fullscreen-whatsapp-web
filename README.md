@@ -6,10 +6,10 @@ It aims to improve the whatsapp web experience (for me at least) by not only dis
 The extension should work on any chromium based browser such as Chrome, Brave, Opera, Edge... 
 
 ## Installation Instructions:
-- Download or Clone this repo and extract it into a folder
-- On your browser, navigate to __**chrome://extensions**__ and enable Developer Mode
-- Click **Load Unpacked** and select the folder where you extracted the extension
-- That's it! (Refresh now the Whatsapp Web page for the changes to take effect)
+- [Download](https://codeload.github.com/kardchcode/fullscreen-whatsapp-web/zip/refs/heads/main) this repo and extract it
+- On your browser, navigate to ```chrome://extensions``` and enable Developer Mode there
+- Click ***Load Unpacked*** and select the folder that contains the extension files *(fullscreen-whatsapp-web-main)*
+- That's it! (Refresh now the WhatsApp Web page for the changes to take effect)
 
 ### Before:
 <img src="https://github.com/shreyash-b/whatsapp-web-fullscreen/blob/main/images/before.png" width="600">
