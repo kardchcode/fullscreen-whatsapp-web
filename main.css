@@ -1,0 +1,19 @@
+div[id="app"] > div > div[tabindex="-1"] {
+  top: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 100% !important;
+} 
+
+div[class="_2Ts6i _3RGKj"] {
+  flex: none !important;
+  resize: horizontal;
+  max-width: 60% !important;
+  min-width: min-content !important;
+  overflow: auto !important;
+}
+
+div[class="_2Ts6i _3RGKj _318SY"] {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}

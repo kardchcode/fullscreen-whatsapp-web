@@ -1,0 +1,34 @@
+{
+    "name": "Fullscreen WhatsApp Web",
+    "description": "Extends the whatsapp web app to cover the full screen & let's you resize the chats tab",
+    "version": "1.2",
+    "manifest_version": 3,
+    
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+
+    "action": {
+        "default_icon": {
+            "16": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        }
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["https://web.whatsapp.com/*"],
+            "css": ["main.css"]
+        }
+    ],
+
+    "web_accessible_resources": [
+        {
+            "resources": ["main.css"],
+            "matches": ["https://web.whatsapp.com/*"]
+        }
+    ]
+}
