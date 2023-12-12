@@ -8,7 +8,7 @@ div[id="app"] > div > div[tabindex="-1"] {
 div[class="_2Ts6i _3RGKj"] {
   flex: none !important;
   resize: horizontal;
-  max-width: 60% !important;
+  max-width: 50% !important;
   min-width: min-content !important;
   overflow: auto !important;
 }
