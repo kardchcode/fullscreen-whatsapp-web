@@ -5,7 +5,7 @@ div[id="app"] > div > div[tabindex="-1"] {
   height: 100% !important;
 } 
 
-div[class="_2Ts6i _3RGKj"] {
+div[class="_aigv _aigw"] {
   flex: none !important;
   resize: horizontal;
   max-width: 50% !important;
@@ -13,7 +13,11 @@ div[class="_2Ts6i _3RGKj"] {
   overflow: auto !important;
 }
 
-div[class="_2Ts6i _3RGKj _318SY"] {
+div[class="_aigv _aigw _aigx"] {
   flex: 0 0 100% !important;
   max-width: 100% !important;
+}
+
+html[id="whatsapp-web"] {
+  overflow-y: hidden !important;
 }
